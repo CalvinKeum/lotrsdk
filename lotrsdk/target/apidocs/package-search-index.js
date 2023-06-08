@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.calvinkeum.lotrsdk"},{"l":"io.github.calvinkeum.lotrsdk.resources"}];updateSearchResults();
