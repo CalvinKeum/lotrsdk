@@ -1,6 +1,6 @@
-package com.github.calvinkeum.lotrsdk.resources;
+package io.github.calvinkeum.lotrsdk.resources;
 
-import com.github.calvinkeum.lotrsdk.LordOfTheRingsSDK;
+import io.github.calvinkeum.lotrsdk.LordOfTheRingsSDK;
 
 public class Quotes {
     private LordOfTheRingsSDK lotrSDK;

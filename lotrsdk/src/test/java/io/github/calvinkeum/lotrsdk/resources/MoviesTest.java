@@ -1,4 +1,4 @@
-package com.github.calvinkeum.lotrsdk.resources;
+package io.github.calvinkeum.lotrsdk.resources;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -15,7 +15,7 @@ import org.json.JSONObject;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.github.calvinkeum.lotrsdk.LordOfTheRingsSDK;
+import io.github.calvinkeum.lotrsdk.LordOfTheRingsSDK;
 
 public class MoviesTest {
     

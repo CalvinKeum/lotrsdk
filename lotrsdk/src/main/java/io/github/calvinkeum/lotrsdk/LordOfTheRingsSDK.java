@@ -1,4 +1,4 @@
-package com.github.calvinkeum.lotrsdk;
+package io.github.calvinkeum.lotrsdk;
 
 import java.io.BufferedReader;
 import java.io.IOException;

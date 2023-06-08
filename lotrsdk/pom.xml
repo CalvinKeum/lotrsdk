@@ -4,12 +4,35 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.calvinkeum</groupId>
+  <groupId>io.github.calvinkeum</groupId>
   <artifactId>lotrsdk</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>lotrsdk</name>
+  <name>Lord of The Rings SDK</name>
+  <description>The Lord of the Rings SDK is a Java library that provides convenient access to The One API for retrieving information about Lord of the Rings movies and quotes.</description>
   <url>https://github.com/CalvinKeum/lotrsdk</url>
+
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+
+  <scm>
+    <connection>scm:git:git://github.com/calvinkeum/lotrsdk.git</connection>
+    <developerConnection>scm:git:ssh://github.com:calvinkeum/lotrsdk.git</developerConnection>
+    <url>http://github.com/calvinkeum/lotrsdk/tree/main</url>
+  </scm>
+
+  <developers>
+    <developer>
+      <name>Calvin Keum</name>
+      <email>calvin.keum@gmail.com</email>
+      <organization>io.github.calvinkeum</organization>
+      <organizationUrl>https://github.com/CalvinKeum</organizationUrl>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
