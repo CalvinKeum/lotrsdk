@@ -6,7 +6,7 @@
 
   <groupId>io.github.calvinkeum</groupId>
   <artifactId>lotrsdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0-SNAPSHOT</version>
 
   <name>Lord of The Rings SDK</name>
   <description>The Lord of the Rings SDK is a Java library that provides convenient access to The One API for retrieving information about Lord of the Rings movies and quotes.</description>
