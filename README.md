@@ -8,7 +8,7 @@ To use the Lord of the Rings SDK, you can include it as a dependency using a bui
 
 ```xml
 <dependency>
-    <groupId>com.github.calvinkeum</groupId>
+    <groupId>io.github.calvinkeum</groupId>
     <artifactId>lotrsdk</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
